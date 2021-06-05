@@ -16,3 +16,7 @@ body {
     font-size: 20px;
     color: #333;
 }
+.cabecera {
+    background: #f1f1f1;
+    width: 100%;
+}
